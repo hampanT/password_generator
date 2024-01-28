@@ -47,6 +47,9 @@ print('Lösenordet har sparats till din clipboard :D')
 
 
 
+#kolla på denna https://www.youtube.com/watch?v=jnUpSK3D3is&t=1s
+
+
 
 
 
